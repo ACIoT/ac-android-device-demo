@@ -14,8 +14,8 @@ android {
         applicationId "com.accloud.ac_device_android_demo"
         minSdkVersion 8
         targetSdkVersion 8
-        versionCode 120
-        versionName "v1.2.0"
+        versionCode 121
+        versionName "v1.2.1"
 
         setProperty("archivesBaseName", "${project.getParent().getName()}-${versionName}")
     }
